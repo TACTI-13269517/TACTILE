@@ -1,0 +1,6 @@
+web speach api 
+
+https://developer.mozilla.org/fr/docs/Web/API/Web_Speech_API
+
+w3c
+https://www.w3.org/TR/vibration/
